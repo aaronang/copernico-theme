@@ -1,6 +1,8 @@
-# Copernico Theme #
+# Copernico Transparent Theme #
 [![Version](https://img.shields.io/badge/version-3.26-green.svg)]()
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)]()
+
+> Note: This is a fork of the original [Copernico theme](https://gitlab.com/mgyugcha/copernico-theme).
 
 Copernico Theme is a simple gnome-shell theme with flat design (I hope).
 You are free to edit the `* .scss` files and then compile them with` make`.

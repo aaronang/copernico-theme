@@ -762,6 +762,7 @@ StScrollBar {
 /* TOP BAR */
 
 #panel {
+  background-gradient-direction: none;
   background-color: transparent;
   /* transition from solid to transparent */
   transition-duration: 500ms;
@@ -859,7 +860,7 @@ StScrollBar {
   .screencast-indicator { color: $warning_color; }
 
   &.solid {
-    background-color: transparentize($bg_color,0.4);
+    background-color: transparent;
     /* transition from transparent to solid */
     transition-duration: 300ms;
 
